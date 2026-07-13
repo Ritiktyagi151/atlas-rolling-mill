@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Housingless Mill Stands",
+    "slug": "housingless-mill-stands",
+    "hasCategory": true,
+    "category": "Housingless Mill Stands",
+    "description": "<p>Innovative design for improved usability and reduced changeover downtime</p><p>Our housingless stands incorporate all the features that improve usability and reduce changeover downtime, creating stands that simply work and last. Designed for the production of bars, wire rods, and profiles, they cover the whole range of products with different sizes.</p><p>These mills can be configured as fully automatic, semi-automatic, or manual production units, equipped with state-of-the-art equipment and manufacturing processes that ensure the highest quality output.</p>"
+  },
+  {
+    "name": "Coilers",
+    "slug": "coilers",
+    "hasCategory": true,
+    "category": "Material Handling Equipment",
+    "description": "<p>Precision coiling solutions for efficient material handling</p><p>Our Coilers are precision-engineered by skilled professionals using premium grade materials and advanced technology. Renowned for easy installation and precisely designed features, these coilers meet the most demanding industrial requirements.</p><p>We offer customizable solutions with single or double station designs. The double coiling stations allow operators to seamlessly switch between full and partial coiling operations, enhancing production flexibility.</p>"
+  },
+  {
+    "name": "Decoilers",
+    "slug": "decoilers",
+    "hasCategory": true,
+    "category": "Material Handling Equipment",
+    "description": "<p>High-performance uncoiling solutions for efficient material handling</p><p>We manufacture premium quality De-Coiler/Un-Coiler Machines that efficiently unreel heavy coils with precision and reliability. Our experienced professionals ensure each machine meets the highest standards of performance and durability.</p><p>Decoilers are essential for uncoiling strips or tin rounds in various industrial applications including Cold Rolling Mills, Pipe Plants, Profile Making Plants, Cold rib making machines, and cut-to-length straightening machines.</p>"
+  },
+  {
+    "name": "Furnace Pusher",
+    "slug": "furnace-pusher",
+    "hasCategory": true,
+    "category": "Material Handling Equipment",
+    "description": "<p>Heavy-duty material handling solutions for reheating furnaces</p><p>We manufacture high-quality furnace pushers constructed from steel fabrication, designed specifically to push material into reheating furnaces. Our heavy-duty pushers operate on imported roller bearings for smooth, reliable performance.</p><p>Available at competitive prices, our furnace pushers feature durable steel-fabricated frames and are delivered fully assembled with all necessary seals and fittings, pressure-tested to ensure leak-free operation.</p>"
+  },
+  {
+    "name": "Roller Conveyors",
+    "slug": "roller-conveyors",
+    "hasCategory": true,
+    "category": "Material Handling Equipment",
+    "description": "<p>High-performance material handling solutions for steel mills and rolling mills</p><p>Roller conveyors are used for the transport of slabs, billets, or sheets in steel mills and hot rolling mills. Depending on the rolled product, individual loads of up to 30 tons or more can be conveyed.</p><p>In hot rolling mills, the rolled product must remain in constant motion to prevent damage. Our conveyors ensure continuous movement until the product is cooled down or reaches the next processing step.</p>"
+  },
+  {
+    "name": "Vertical Loopers",
+    "slug": "vertical-loopers",
+    "hasCategory": true,
+    "category": "Material Handling Equipment",
+    "description": "<p>Precision tension control for continuous rolling mills</p><p>The Vertical Looper (with snap shear) is a mechanical device that creates loops between consecutive continuous mill stands. This critical component maintains optimal loops to ensure tension-free rolling, significantly improving product quality and mill efficiency.</p><p>Our Vertical Loopers come complete with necessary instrumentation including loop scanners and automation systems for precise control. They are essential for Hot TMT rebar rolling mills and other continuous rolling applications.</p>"
+  },
+  {
+    "name": "YTables",
+    "slug": "ytables",
+    "hasCategory": true,
+    "category": "Material Handling Equipment",
+    "description": "<p>Efficient material transfer solutions for steel mills</p><p>We are prominent manufacturers of Y Tables renowned for efficient performance and developed with effective technology. These tables are used for transferring hot/cold steel material between stations in various mill applications.</p><p>Our Y Tables are used in Roughing, Intermediate, and Finishing mills, as well as Section Mills, Heavy Round Square, Flat, TMT, Girder, and Bar Mills.</p>"
+  },
+  {
+    "name": "Pinch Rolls",
+    "slug": "pinch-rolls",
+    "hasCategory": true,
+    "category": "Other Allied Machinery",
+    "description": "<p>Precision material handling for rolling mill operations</p><p>Pinch rolls serve the critical function of directing material flow in rolling mills without altering the material itself. These precision components maintain proper speed and tension control throughout the rolling process.</p><p>Strategically installed between mill stands and around TMT quenching boxes, our pinch rolls ensure smooth material transfer while maintaining optimal processing conditions for quality output.</p>"
+  },
+  {
+    "name": "Straightening Machine",
+    "slug": "straightening-machine",
+    "hasCategory": true,
+    "category": "Other Allied Machinery",
+    "description": "<p>Precision straightening solutions for ferrous and non-ferrous materials</p><p>We manufacture premium straightening machines that deliver automatic, high-speed straightening for both ferrous and non-ferrous materials in cold conditions. Our machines combine robust construction with user-friendly operation for optimal performance.</p><p>Featuring cantilever-mounted straightening rolls for quick changeovers and precise pressure adjustment, our machines ensure consistent results across various material sizes and types.</p>"
+  },
+  {
+    "name": "Vertical Edger",
+    "slug": "vertical-edger",
+    "hasCategory": true,
+    "category": "Other Allied Machinery",
+    "description": "<p>Precision edge trimming solutions for rolling mills</p><p>Our Vertical Edgers are available in both 2-saw and 3-saw configurations, offering flexible edge trimming solutions. The independent saw collar shifting mechanism provides precise control for various material dimensions.</p><p>Designed for optimal performance, our edgers feature hydraulic cylinder operation for saw shifting and multiple drive options including direct electric motor drive or belt-driven gearbox configurations.</p>"
+  },
+  {
+    "name": "Cardenshaft",
+    "slug": "cardenshaft",
+    "hasCategory": true,
+    "category": "Rolling Mill Parts",
+    "description": "<p>Precision torque transmission for misaligned shaft applications</p><p>We manufacture superior quality Cardan Shafts for rolling mills, available in various specifications to meet diverse industrial requirements. Our shafts efficiently transmit torque between non-aligned driving and driven units while compensating for angular deflection and distance variations.</p><p>Designed to eliminate misalignment effects, our Cardan Shafts ensure proper roll cluster alignment and minimize vibration impacts on rolling stock tolerance.</p>"
+  },
+  {
+    "name": "Flywheel",
+    "slug": "flywheel",
+    "hasCategory": true,
+    "category": "Rolling Mill Parts",
+    "description": "<p>Precision-engineered energy storage solutions for industrial applications</p><p>We offer a wide assortment of precision-engineered metallic flywheels that are in high demand both domestically and internationally. Each product undergoes rigorous quality inspection to ensure exceptional performance characteristics.</p><p>Flywheels serve as crucial energy storage components, capturing excess energy during production and releasing it when needed, ensuring optimal energy utilization throughout operations.</p>"
+  },
+  {
+    "name": "Gearcoupling",
+    "slug": "gearcoupling",
+    "hasCategory": true,
+    "category": "Rolling Mill Parts",
+    "description": "<p>Precision power transmission components for demanding industrial applications</p><p>Gear couplings are essential components that connect rotating shafts while allowing for slight misalignment and transmitting substantial power. Our precision-engineered couplings maintain secure connections even under the most demanding operating conditions.</p><p>ATLAS ROLLING MILL MFG.CO. manufactures premium quality gear couplings that meet strict industry standards, offering dimensional accuracy and easy installation for seamless integration into your systems.</p>"
+  },
+  {
+    "name": "Rollerbox",
+    "slug": "rollerbox",
+    "hasCategory": true,
+    "category": "Rolling Mill Parts",
+    "description": "<p>Precision guidance systems for continuous rolling operations</p><p>Our roller guide boxes are essential components in continuous rolling operations, ensuring proper alignment and guidance of stock between adjacent rollers. Designed for durability and performance, these systems operate smoothly in diverse rolling conditions with minimal maintenance requirements.</p><p>As a flagship product of ATLAS ROLLING MILL MFG.CO., our roller guide boxes are widely used in TMT bar and wire rod re-rolling mills, known for their corrosion and abrasion resistance.</p>"
+  },
+  {
+    "name": "Spindles",
+    "slug": "spindles",
+    "hasCategory": true,
+    "category": "Rolling Mill Parts",
+    "description": "<p>High-performance torque transmission solutions for rolling mills</p><p>Our universal spindles are engineered to deliver reliable torque transmission in demanding rolling mill applications. With an efficient supply chain network, we can fulfill bulk orders promptly while maintaining our commitment to quality.</p><p>Designed specifically for rolling mills and heavy machinery, our spindles transmit torque efficiently at shaft axes, available in various sizes to meet diverse industrial requirements.</p>"
+  },
+  {
+    "name": "Universalcoupling",
+    "slug": "universalcoupling",
+    "hasCategory": true,
+    "category": "Rolling Mill Parts",
+    "description": "<p>Advanced shaft connection technology for hot rolling mill applications</p><p>Universal couplings are essential components for connecting rotating shafts and transmitting angular movement in mechanical systems, particularly in demanding hot rolling mill environments. Our solutions accommodate various alignment challenges while ensuring reliable power transmission.</p><p>TS ISPAT PVT LTD offers premium universal couplings manufactured with meticulous attention to detail, ensuring optimal performance and longevity for your equipment at competitive industry prices.</p>"
+  },
+  {
+    "name": "Rolling Mill Stands",
+    "slug": "rolling-mill-stands",
+    "hasCategory": true,
+    "category": "Rolling Mill Stands",
+    "description": "<p>Reliable, rugged mill stands designed for ease of operation and maintenance</p><p>We manufacture various types and sizes of mill stands with main features being reliability, ruggedness and ease of operation and maintenance. Our stands feature compact and simple designs that facilitate quick roll changes and require minimum maintenance.</p><p>These mills can be fully automatic, semi-automatic or manual production units, equipped with sizing presses and automatic line inspection facilities for highest quality output.</p>"
+  },
+  {
+    "name": "Billet Shear Section",
+    "slug": "billet-shear-section",
+    "hasCategory": true,
+    "category": "Shearing & Cutting Machine",
+    "description": "<p>Heavy-duty cutting solutions for billet and slab preparation</p><p>Our heavy-duty billet shearing machines are engineered for material preparation in both rolling and forging operations. Capable of cutting billets and slabs in cold conditions, these machines are available in capacities ranging from 50mm to 175mm MS square shearing.</p><p>Designed for rolling mill applications, our shears incorporate heavy-duty double spherical bearings and GM bushes in the main and back shafts, ensuring smooth operation and precise cuts with uniform shearing surfaces.</p>"
+  },
+  {
+    "name": "Coldshear Machine",
+    "slug": "coldshear-machine",
+    "hasCategory": true,
+    "category": "Shearing & Cutting Machine",
+    "description": "<p>Heavy-duty cutting solutions for cold material processing</p><p>Our cold shearing machines are engineered for heavy-duty cutting of billets, bars, structural components (angles & channels), plate scraps, and TMT bundles. With blade lengths up to 800mm and 150mm stroke capacity (hydraulic/mechanical), these machines deliver precision cuts for cooled materials.</p><p>Designed with hardened and ground internal components, our machines feature either fabricated or casted outer bodies for optimal performance. The corrosion-resistant construction ensures long service life even in demanding industrial environments.</p>"
+  },
+  {
+    "name": "Crop Shear Section",
+    "slug": "crop-shear-section",
+    "hasCategory": true,
+    "category": "Shearing & Cutting Machine",
+    "description": "<p>Precision cutting solutions for hot rolling mill operations</p><p>Our Crop & Cobble Shears are essential for hot rolling operations, performing front end cropping, tail end cutting, and emergency segment cutting. These start/stop shears offer flexible operation through either flywheel-mounted pneumatic clutch/brake systems or direct DC motor drives.</p><p>Designed for continuous cutting of bars at precise points, our shears are available in sizes from 400mm to 1000mm CRS with dual-mode operation (crank or continuous) to suit various production requirements.</p>"
+  },
+  {
+    "name": "End Cuttingshear Machine",
+    "slug": "end-cuttingshear-machine",
+    "hasCategory": true,
+    "category": "Shearing & Cutting Machine",
+    "description": "<p>Precision trimming solutions for hot and cold material processing</p><p>As a leading manufacturer and exporter, we provide high-quality End Cutting Shearing Machines that comply with international standards. Our machines efficiently trim split hot ends, cold bars, and scraps, with the capability to shear cold billets and finished products to desired lengths.</p><p>Designed with modern attributes that meet global quality benchmarks, our shearing machines deliver precise cuts with fine brightness and smoothness, whether processing curved edges with square rollers or straight lines with linear gauges.</p>"
+  },
+  {
+    "name": "Flying Shear Machine",
+    "slug": "flying-shear-machine",
+    "hasCategory": true,
+    "category": "Shearing & Cutting Machine",
+    "description": "<p>Precision cutting solutions for continuous rolling operations</p><p>As leading exporters of high-speed flying shears from India, we provide durable cutting solutions made from premium corrosion-resistant materials. Our shears are positioned after the finishing mill and before the cooling bed for optimal operation.</p><p>Equipped with encoder technology and MMI interface, our flying shears precisely cut materials at line speed without interrupting production flow, significantly enhancing overall productivity.</p>"
+  },
+  {
+    "name": "Hot Billetshearing Machine",
+    "slug": "hot-billetshearing-machine",
+    "hasCategory": true,
+    "category": "Shearing & Cutting Machine",
+    "description": "<p>High-temperature cutting solutions for rolling and forging operations</p><p>Our heavy-duty hot billet shearing machines are specifically designed for material preparation in demanding rolling and forging operations. These robust machines efficiently cut billets and slabs in high-temperature conditions, with capacities ranging from 50mm to 175mm MS square shearing.</p><p>Engineered for rolling mill applications, our hot shears incorporate heavy-duty double spherical bearings and GM bushes in the main and back shafts, ensuring reliable operation even in extreme thermal conditions.</p>"
+  },
+  {
+    "name": "Hot Saw",
+    "slug": "hot-saw",
+    "hasCategory": true,
+    "category": "Shearing & Cutting Machine",
+    "description": "<p>High-performance cutting solutions for hot rolling mills</p><p>We offer a tough range of quality Hot Saws constructed from stainless steel material with strong teeth. These are used in Hot Rolling to cut desired lengths and to trim front & rear ends of rolled sections.</p><p>The Hot Saw is placed before the cooling bed to cut the rolled sections to required lengths. One fixed Hot Saw cuts the front end, while traveling Hot Saws adjust to cut sections along the rolling axis.</p>"
+  },
+  {
+    "name": "Rotaryshear Machine",
+    "slug": "rotaryshear-machine",
+    "hasCategory": true,
+    "category": "Shearing & Cutting Machine",
+    "description": "<p>Continuous rotating cutting solutions for bar and wire rod processing</p><p>Our cost-effective rotary shears are designed for continuous operation, efficiently cropping front and tail ends of bars while also handling emergency scrap cutting of pre-quenched materials. These machines excel at trimming hot rolled bars at controlled speeds in wire rod and TMT bar mills.</p><p>Manufactured under strict professional supervision, our rotary shearing machines deliver long service life with minimal wear, outperforming competitors in bending, pressing, punching, and drawing applications.</p>"
+  },
+  {
+    "name": "Scrap Plate Machine",
+    "slug": "scrap-plate-machine",
+    "hasCategory": true,
+    "category": "Shearing & Cutting Machine",
+    "description": "<p>Heavy-duty cutting solutions for scrap processing and re-rolling operations</p><p>Our heavy-duty scrap shearing machines are designed for cutting various re-rollable materials including plates, rails, beams, channels, rounds, angles, and squares in cold conditions. These robust machines are essential for mini re-rolling mills and scrap processing yards.</p><p>Manufactured with premium components from industry-approved suppliers, our shearing machines offer effortless functionality and extended service life at competitive prices. Available in 1\" to 3\" shearing capacities, they're ideal for 6-9\" mill installations.</p>"
+  },
+  {
+    "name": "Snapshear Machine",
+    "slug": "snapshear-machine",
+    "hasCategory": true,
+    "category": "Shearing & Cutting Machine",
+    "description": "<p>Emergency cutting solutions for hot rolling mill breakdowns</p><p>Our snap shear machines provide critical emergency cutting capability during rolling mill breakdowns or mis-roll situations. Designed for instant deployment, these specialized shears quickly sever hot rolling stock to prevent equipment damage and minimize production downtime.</p><p>Built with hardened alloy steel components and thermal-resistant materials, our snap shears withstand the extreme conditions of hot rolling operations while delivering reliable performance when you need it most.</p>"
+  },
+  {
+    "name": "Coolingbed",
+    "slug": "coolingbed",
+    "hasCategory": true,
+    "category": "TMT Equipment",
+    "description": "<p>Our cooling beds provide natural cooling and cross-transfer of materials to the discharge end. Designed with standardized elements, they can be customized to match your plant's product mix and production capacity requirements.</p><p>Featuring full mechanical component standardization, our cooling beds guarantee consistent equipment quality and high performance. We offer various entry configurations including lifting aprons with natural braking, magnetic braking, or twin channel mechanical braking systems.</p><p>Transfers material by one pitch per rake movement, featuring twin channel bar delivery systems or apron-type diverters with integrated bar alignment.</p>"
+  },
+  {
+    "name": "Quenchingbox",
+    "slug": "quenchingbox",
+    "hasCategory": true,
+    "category": "TMT Equipment",
+    "description": "<p>Advanced water treatment technology for superior TMT re-bar production</p><p>ATLAS ROLLING MILL MFG.CO. leads the industry in designing and manufacturing high-performance TMT Quenching Boxes for rolling mill plants. Our solutions cover everything from green field installations to brown field modernizations.</p><p>We manufacture premium quality quenching boxes with non-corrosive properties and exceptional finish, adhering to strict industry standards with a client-focused approach.</p>"
+  },
+  {
+    "name": "Tailbreaker",
+    "slug": "tailbreaker",
+    "hasCategory": true,
+    "category": "TMT Equipment",
+    "description": "<p>Precision-engineered solutions for TMT bar velocity control</p><p>Our Tail Breakers are manufactured using superior quality raw materials in strict compliance with international standards. We offer customization options to meet specific customer requirements.</p><p>Positioned between the flying shear and cooling bed, our Tail Breakers effectively reduce TMT bar velocity using AC/DC variable drives with pneumatic cylinder operation for roll separation.</p>"
+  },
+  {
+    "name": "Twinchannel",
+    "slug": "twinchannel",
+    "hasCategory": true,
+    "category": "TMT Equipment",
+    "description": "<p>Revolutionizing bar handling at cooling beds with unmatched speed and safety</p><p>The twin channel offers an innovative solution for high-speed bar handling at cooling beds, supporting bar sizes up to 40mm with speeds reaching 30 meters per second. Our system ensures smooth transportation of bars in a closed channel until they reach a complete standstill, then automatically discharges them to the bed below.</p><p>Our Twin Channel system represents a breakthrough in steel mill technology, combining precision engineering with operational efficiency. The innovative cast iron center box design has revolutionized maintenance procedures, significantly reducing downtime.</p>"
+  },
+  {
+    "name": "Helicalgear",
+    "slug": "helicalgear",
+    "hasCategory": true,
+    "category": "Gearboxes",
+    "description": "<p>Providing you the top-notch Single & Double Helical Gears</p><p>The Helical gears produced by our production models meet all standards recommended by different gear manufacturing associations (GMA) at both local and international levels. We use world-class raw materials for manufacturing these helical gears, with quality inspection conducted by professionals with specialized knowledge in gear production.</p><p>We utilize cutting-edge equipment technology and innovative machinery to ensure the highest quality helical gear production, resulting in superior performance and durability.</p>"
+  },
+  {
+    "name": "Piniongearbox",
+    "slug": "piniongearbox",
+    "hasCategory": true,
+    "category": "Gearboxes",
+    "description": "<p>A Pinion Gearbox is a critical component in rolling mills and industrial machinery, designed to efficiently transmit power and control rotational motion. Our precision-engineered gearboxes feature high-quality gears that ensure smooth torque transmission while minimizing energy loss and maximizing performance.</p><p>ATLAS pinion gearboxes are widely used in steel rolling mills, paper mills, cement plants, and other heavy-duty industrial applications. They play a vital role in synchronizing roller movement and ensuring uniform material processing.</p><p>Manufactured with precision engineering from high-grade materials, our pinion gearboxes offer exceptional durability, high load-bearing capacity, and superior resistance to wear and tear in demanding environments.</p>"
+  },
+  {
+    "name": "Reductioncumgearbox",
+    "slug": "reductioncumgearbox",
+    "hasCategory": true,
+    "category": "Gearboxes",
+    "description": "<p>A reduction gear box is used to reduce an input speed to a slower output speed while increasing output torque. This robust system consists of interconnected rotating gears that transmit power while modifying motion and torque characteristics.</p><p>We specialize in manufacturing single-stage, double-stage, and multistage gear boxes with customized output configurations to meet your specific operational requirements. Our solutions are engineered for reliability in the most challenging environments.</p><p>Featuring horizontal split case design for maintenance accessibility, our gearboxes incorporate large diameter output shafts and heavy-duty bearings to maximize overhung load capacity.</p>"
+  },
+  {
+    "name": "Reductiongearbox",
+    "slug": "reductiongearbox",
+    "hasCategory": true,
+    "category": "Gearboxes",
+    "description": "<p>ATLAS ROLLING MILL MFG.CO. offers an extensive range of robust Reduction Gear Boxes designed to perform in severe industrial conditions. Available in various configurations to meet diverse application requirements, our gearboxes are renowned for their hassle-free operation and low maintenance needs.</p><p>We specialize in manufacturing high-performance Reduction Gear Boxes for rolling mills ranging from 6\" to 36\". Engineered for durability and smooth operation, these gearboxes are the preferred choice for demanding industrial applications, particularly in rerolling mills and stress-relieved fabrication environments.</p><p>Our state-of-the-art production facilities include continuous MIG welding and stress-relieving capabilities, along with dedicated gearbox testing facilities. This ensures optimal performance across our complete range from 2 HP to 3000 HP gearboxes.</p>"
+  },
+  {
+    "name": "Speedincrease",
+    "slug": "speedincrease",
+    "hasCategory": true,
+    "category": "Gearboxes",
+    "description": "<p>Our industrial-grade Speed Increaser Gearboxes deliver precise speed amplification from 2 HP to 3000 HP capacity. Engineered for demanding applications, they feature robust construction and optimal efficiency.</p><p>Specifically designed for bar mills, these units are installed between intermediate mill stands to boost output speed while maintaining torque integrity.</p><p>Key Benefit: Modular design allows for custom ratios and configurations to match your exact operational requirements.</p>"
+  },
+  {
+    "name": "Barwirerodmills",
+    "slug": "barwirerodmills",
+    "hasCategory": true,
+    "category": "Rolling Mill Plants",
+    "description": "<p>ATLAS ROLLING MILL MFG.CO. has manufactured, installed and commissioned dozens of turn-key hot rolling mills for leading rebar manufacturers and wire-rod manufacturers. Our technical solutions, both mechanical and automation, combined with flawless project execution have significantly enhanced our customers' competitiveness, earning the trust of the most demanding steel industry leaders.</p><p>These Mills can be Fully Automatic, Semi Automatic & Manual Production Units, tailored to meet your specific production needs.</p><p>We use premium quality MS Ingot/Billet as raw material, with all transformation processes to TMT bars supervised by skilled professionals. Our commitment is to deliver exceptional return on your investment through superior quality and performance.</p>"
+  },
+  {
+    "name": "Sectionmills",
+    "slug": "sectionmills",
+    "hasCategory": true,
+    "category": "Rolling Mill Plants",
+    "description": "<p>Any green-field complete rolling mill for the most respected and biggest corporations has the aim to cope with the rising demand of steel sections for the building construction industry. This has been the task that ATLAS ROLLING MILL MFG.CO. has been called to fulfill as technological partner for engineering and manufacturing of state-of-the-art long products rolling mills. Expectations have always been met and exceeded, and the long lasting relations with our customers continue with reciprocal satisfaction.</p><p>These Mills can be Fully Automatic, Semi Automatic & Manual Production Units, designed to meet diverse industrial requirements.</p><p>Our section rolling mills incorporate the latest German and Japanese technologies adapted for Indian manufacturing conditions, delivering precision, efficiency, and reliability for your structural steel production needs.</p>"
+  },
+  {
+    "name": "stripmills",
+    "slug": "stripmills",
+    "hasCategory": true,
+    "category": "Rolling Mill Plants",
+    "description": "<p>The production of hot strip is a key element of steel production. Since close to half of all steel produced is hot-rolled to strip, mills require maximum throughput and availability combined with geometrical precision and the ability to create optimum material properties.</p><p>These Mills can be Fully Automatic, Semi Automatic & Manual Production Units, designed to meet the most demanding industrial requirements.</p><p>The production of these coils involves the use of state-of-the-art equipment and manufacturing processes that ensure products of the highest quality. Our Strip Rolling mill is equipped with sizing presses and an automatic line inspection facility, guaranteeing precision and consistency in every coil.</p>"
+  }
+]

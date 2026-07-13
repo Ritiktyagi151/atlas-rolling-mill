@@ -1,0 +1,29 @@
+.events-page .card{
+    border-radius:12px;
+    overflow:hidden;
+    transition:.3s;
+}
+
+.events-page .card:hover{
+    transform:translateY(-5px);
+}
+
+.events-page img{
+    width:100%;
+}
+
+.events-page .btn{
+    border-radius:8px;
+}
+
+.modal-content{
+    border-radius:15px;
+}
+
+.modal-header{
+    border-bottom:1px solid #eee;
+}
+
+.modal-footer{
+    border-top:1px solid #eee;
+}
